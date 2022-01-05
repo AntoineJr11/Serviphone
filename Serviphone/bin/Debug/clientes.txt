@@ -1,0 +1,8 @@
+5622635986382|456780-8|Maria|Sosa|Barberena|maria@correo.com|56793456
+9647297377637|8764567-7|Reyna|Solares|Cuilapa|solar@correo.com|56781231
+4287986235449|5678909-1|Antonio|Vargas|Zona 17|tony@correo.com|45673456
+8656632346872|7982472-1|Jose|Sanchez|Zona 15|jose@correo.com|45678986
+5824894774786|27628912-8|Juan |Perez|Zona 9|juanito@correo.com|46578765
+4858548823839|89237842-9|Pedro|Gonzalez|Zona 1|pedro@correo.com|75628976
+98765-7|3435692976384|Carlos|Corona|Zona 11|corona@correo.com|45678811
+789173-6|7354682342986|Marta|Sanchez|Zona 6|marta@correo.com|56789723

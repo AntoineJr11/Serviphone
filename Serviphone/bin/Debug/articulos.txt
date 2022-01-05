@@ -1,0 +1,12 @@
+82427886|IPhone 8|Apple|3000|Activo
+28849998|Samsung A30|Samsung|2000|Activo
+64642252|Samsung A20|Samsung|1500|Activo
+58267757|IPhone 11|Apple|7000|Activo
+53644242|Iphone X|Apple|6000|Activo
+73762856|Samsung J10|Samsung|1000|Activo
+73762856|IPhone X|Apple|7000|Activo
+92922447|Iphone 8|Apple|3000|Activo
+36727752|Samsung A30|Samsung|2000|Activo
+82733247|IPhone XR|Apple|5500|Activo
+92927833|Samsung Galaxy|Samsung|4000|Activo
+42255452|Iphone 7|Apple|2500|Activo
